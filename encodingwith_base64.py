@@ -14,7 +14,7 @@ def encoding_data(text):
     cipher_text = cipher_text.decode()
     return cipher_text
 
-#Decode the cipher_text
+# Decode the cipher_text
 # and change the decoded bytes to string
 
 def decoding_data(cipher_text):
