@@ -22,3 +22,5 @@ Ensures compatibility with a wide range of characters and avoids potential encod
 Modular Design:
 
 Encapsulated logic makes the program easy to maintain and extend.
+
+DONE!
